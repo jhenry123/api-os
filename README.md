@@ -1,1 +1,1 @@
-# The other component is the whole node-modules folder but it is ~150 MB so I did not upload it.
+# The other component is the whole node-modules folder but it is too big , it contains the libraries.
